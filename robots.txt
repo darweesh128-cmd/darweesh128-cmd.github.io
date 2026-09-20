@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://darweesh128-cmd.github.io/sitemap.xml
+Sitemap: https://darweesh128-cmd.github.io/client-close-kit/sitemap.xml
